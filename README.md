@@ -1,0 +1,2 @@
+# polyphony_learning
+PythonをVerilogにコンパイルする高位合成【Polyphony】の学習用
